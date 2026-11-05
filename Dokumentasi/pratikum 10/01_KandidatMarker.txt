@@ -1,0 +1,38 @@
+--------------------------------------------------
+1. KANDIDAT MARKER
+--------------------------------------------------
+
+- Kandidat 1 (Marker Final) : 1.jpg
+- Kandidat 2                : 2.jpg
+
+--------------------------------------------------
+2. PERBANDINGAN KARAKTERISTIK VISUAL
+--------------------------------------------------
+
+[Aspek Evaluasi]
+
+1. Kontras
+   - Kandidat 1 (1.jpg) : Tinggi (perbedaan area gelap dan terang sangat jelas)
+   - Kandidat 2 (2.jpg) : Sedang / Cenderung Rata
+
+2. Detail Visual
+   - Kandidat 1 (1.jpg) : Memiliki banyak titik fitur (feature points) unik dan kaya detail
+   - Kandidat 2 (2.jpg) : Detail visual lebih sedikit dan dominan area polos
+
+3. Keunikan
+  - Kandidat 1 (1.jpg) : Memiliki pola yang sangat khas dan tidak mudah tertukar
+   - Kandidat 2 (2.jpg) : Cenderung umum dan kurang memiliki titik pembeda yang menonjol
+
+4. Pola Berulang
+   - Kandidat 1 (1.jpg) : Bebas dari pola berulang simetris yang membingungkan pelacakan
+   - Kandidat 2 (2.jpg) : Terdapat elemen visual yang mirip di beberapa sisi
+
+5. Ketajaman
+   - Kandidat 1 (1.jpg) : Gambar tajam, fokus, dan tidak mengalami kompresi blur
+   - Kandidat 2 (2.jpg) : Ketajaman standar
+
+--------------------------------------------------
+3. ALASAN PEMILIHAN MARKER FINAL
+-------------------------------------------------
+
+Saya memilih Kandidat 1 (1.jpg) sebagai marker final karena memenuhi seluruh kriteria kelayakan image tracking pada AR Foundation. Gambar ini memiliki kontras warna yang sangat tinggi, detail titik fitur yang tajam dan tersebar merata, serta tidak memiliki pola berulang yang dapat mengganggu algoritma deteksi kamera. Karakteristik ini memastikan pendeteksian marker dapat berjalan dengan cepat, akurat, dan tetap stabil saat diuji di perangkat Android.
