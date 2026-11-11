@@ -1,0 +1,7 @@
+Library/
+Temp/
+Logs/
+UserSettings/
+.utmp/
+*BackUpThisFolder*
+*.apk
